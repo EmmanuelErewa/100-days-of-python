@@ -1,2 +1,3 @@
-# 100-days-of-python
-My daily progress learning Python — Day 1 to Day 100
+## Progress Log
+Day 1: Learned variables, strings, print statements
+Day 2: Data types, type conversion
